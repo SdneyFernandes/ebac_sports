@@ -12,7 +12,6 @@ export const Header = styled.header`
   display: flex;
   border-radius: 6px;
   align-items: center;
-
   h1 {
     font-size: 18px;
     flex: 1;
